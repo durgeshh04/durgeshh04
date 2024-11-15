@@ -29,4 +29,4 @@
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/durgeshchaudhari04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/durgeshchaudhari04/" height="30" width="40" /></a>
 </p>
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
