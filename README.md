@@ -1,8 +1,8 @@
 <!-- ![logo](https://github.com/durgeshh04/durgeshh04/blob/main/banner.PNG) -->
 
 <h1 align="center">Hi 👋, I'm Durgesh Chaudhari</h1>
-<img alt="line" width="1920" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 <h3 align="center">A passionate Software Engineer from India</h3>
+<img alt="line" width="1920" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 <img align="right" alt="coding" width="300" height="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
@@ -28,3 +28,5 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/eagle_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/eagle_04/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/durgeshchaudhari04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/durgeshchaudhari04/" height="30" width="40" /></a>
 </p>
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
