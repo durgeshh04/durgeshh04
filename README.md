@@ -1,3 +1,5 @@
+![logo](https://github.com/durgeshh04/durgeshh04/blob/main/assets/Banner.PNG?raw=true)
+
 <h1 align="center">Hi 👋, I'm Durgesh Chaudhari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img alt="line" width="1920" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
