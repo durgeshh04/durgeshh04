@@ -1,4 +1,4 @@
-![logo](https://github.com/durgeshh04/durgeshh04/blob/main/banner.PNG)
+
 
 <h1 align="center">Hi 👋, I'm Durgesh Chaudhari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
