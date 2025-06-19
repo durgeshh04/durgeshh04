@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js, Vue.js, Angular.js**
 
-- 💬 Ask me about **react, vue, gsap, node.js, express.js, database**
+- 💬 Ask me about **react, vue, gsap, node.js, express.js, nest.js, loopback, postgresql, mongodb**
 
 - 📫 How to reach me **durgeshchaudhari199@gmail.com**
 
